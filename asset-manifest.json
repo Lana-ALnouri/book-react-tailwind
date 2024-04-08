@@ -1,9 +1,28 @@
 {
   "files": {
-    "main.js": "/book-react-tailwind/static/js/main.31d6cfe0.js",
-    "index.html": "/book-react-tailwind/index.html"
+    "main.css": "/book-react-tailwind/static/css/main.b382a389.css",
+    "main.js": "/book-react-tailwind/static/js/main.f03a1932.js",
+    "static/js/651.d7ad7e6d.chunk.js": "/book-react-tailwind/static/js/651.d7ad7e6d.chunk.js",
+    "static/media/Schmitt_Nocognia_3D_500pcx 1.png": "/book-react-tailwind/static/media/Schmitt_Nocognia_3D_500pcx 1.c05221689ef51b1a143e.png",
+    "static/media/Logo.svg": "/book-react-tailwind/static/media/Logo.13944f8eba8bfcddc89baca40b3926fe.svg",
+    "static/media/B-World.svg": "/book-react-tailwind/static/media/B-World.33493b3936e21845fb8597df59f5d27a.svg",
+    "index.html": "/book-react-tailwind/index.html",
+    "static/media/book-open-01.svg": "/book-react-tailwind/static/media/book-open-01.38e375dfdbb0e0ff4c6d8bd1cd0c22ba.svg",
+    "static/media/moon-01 (2).svg": "/book-react-tailwind/static/media/moon-01 (2).9eeef9d5c54d2f4ae5528e96e8f15542.svg",
+    "static/media/sun.svg": "/book-react-tailwind/static/media/sun.1f5fcab2a3f270547b010629fcbf6453.svg",
+    "static/media/bi_star-fill.svg": "/book-react-tailwind/static/media/bi_star-fill.f4f05aba09c4f6708649c2bc5aa54fa6.svg",
+    "static/media/akar-icons_circle-plus.svg": "/book-react-tailwind/static/media/akar-icons_circle-plus.3693b6f3a97a75f7211e239f84481e5e.svg",
+    "static/media/fi-bs-cross (2).svg": "/book-react-tailwind/static/media/fi-bs-cross (2).e2aa0b0d5c8534f7216aaa1b7275ae64.svg",
+    "static/media/akar-icons_circle-minus.svg": "/book-react-tailwind/static/media/akar-icons_circle-minus.d74f0b0de6faf4e2413a6369dbee12ec.svg",
+    "static/media/Group 55.svg": "/book-react-tailwind/static/media/Group 55.096aebd932f2c083c51088a8c342348d.svg",
+    "static/media/Group 53.svg": "/book-react-tailwind/static/media/Group 53.dd36d0fc839b658f26fddb11d135af52.svg",
+    "static/media/Menu.svg": "/book-react-tailwind/static/media/Menu.80231b197ae67b625c290fc889c8aab9.svg",
+    "main.b382a389.css.map": "/book-react-tailwind/static/css/main.b382a389.css.map",
+    "main.f03a1932.js.map": "/book-react-tailwind/static/js/main.f03a1932.js.map",
+    "651.d7ad7e6d.chunk.js.map": "/book-react-tailwind/static/js/651.d7ad7e6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.31d6cfe0.js"
+    "static/css/main.b382a389.css",
+    "static/js/main.f03a1932.js"
   ]
 }
