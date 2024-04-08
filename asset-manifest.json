@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/book-react-tailwind/static/css/main.b382a389.css",
-    "main.js": "/book-react-tailwind/static/js/main.f03a1932.js",
+    "main.js": "/book-react-tailwind/static/js/main.40a9a55a.js",
     "static/js/651.d7ad7e6d.chunk.js": "/book-react-tailwind/static/js/651.d7ad7e6d.chunk.js",
     "static/media/Schmitt_Nocognia_3D_500pcx 1.png": "/book-react-tailwind/static/media/Schmitt_Nocognia_3D_500pcx 1.c05221689ef51b1a143e.png",
     "static/media/Logo.svg": "/book-react-tailwind/static/media/Logo.13944f8eba8bfcddc89baca40b3926fe.svg",
@@ -18,11 +18,11 @@
     "static/media/Group 53.svg": "/book-react-tailwind/static/media/Group 53.dd36d0fc839b658f26fddb11d135af52.svg",
     "static/media/Menu.svg": "/book-react-tailwind/static/media/Menu.80231b197ae67b625c290fc889c8aab9.svg",
     "main.b382a389.css.map": "/book-react-tailwind/static/css/main.b382a389.css.map",
-    "main.f03a1932.js.map": "/book-react-tailwind/static/js/main.f03a1932.js.map",
+    "main.40a9a55a.js.map": "/book-react-tailwind/static/js/main.40a9a55a.js.map",
     "651.d7ad7e6d.chunk.js.map": "/book-react-tailwind/static/js/651.d7ad7e6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b382a389.css",
-    "static/js/main.f03a1932.js"
+    "static/js/main.40a9a55a.js"
   ]
 }
